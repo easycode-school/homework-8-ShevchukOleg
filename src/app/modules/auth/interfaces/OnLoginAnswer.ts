@@ -1,3 +1,6 @@
+/**
+ * інерфейс відповіді серверу
+ */
 export interface OnLoginAnswer {
   error: boolean;
   message: string;
